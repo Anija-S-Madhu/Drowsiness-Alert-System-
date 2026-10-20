@@ -1,4 +1,4 @@
-# AI-Based Real-Time Face Analysis System
+# AI-Based Real-Time Face Analysis System & Drowsiness Alert System
 
 ## Description
 This project is developed using Python, OpenCV, and MediaPipe to perform real-time face analysis through a webcam.
